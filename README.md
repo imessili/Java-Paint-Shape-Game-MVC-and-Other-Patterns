@@ -1,7 +1,7 @@
 # ProjetGameMVCSwing
 
 ## Description
-Petit projet qui vise à implémenter un maximum de patrons de conception en Java autour d'un logiciel de dessin avec un jeu simple : des figures sont tracées aléatoirement, et le joueur doit remplir le reste de l'espace en minimisant le nombre de formes à ajouter.
+Projet qui vise à implémenter un maximum de patrons de conception en Java autour d'un logiciel de dessin avec un jeu simple : des figures sont tracées aléatoirement, et le joueur doit remplir le reste de l'espace en minimisant le nombre de formes à ajouter.
 
 ## Prérequis
 Ce projet nécessite Java et Apache Ant pour être compilé et exécuté.
